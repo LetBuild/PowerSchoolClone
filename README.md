@@ -1,1 +1,3 @@
 # PowerSchoolClone
+
+Made with Django
