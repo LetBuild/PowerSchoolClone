@@ -23,6 +23,7 @@ urlpatterns = [
 
     # Re-routes the user to the Powerschool_App views.
     path('', include('powerSchool_App.urls')),
+    path('account/', include('account.urls')),
 
 
 ]
